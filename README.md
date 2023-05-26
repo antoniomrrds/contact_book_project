@@ -45,5 +45,5 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 **DataBase:** Mongo 
 
 ## 🚀 Sobre mim
-Eu sou um desenvolvedor full-stack em ascenção ... 
+Eu sou uma pessoa que esta em busca de se tornar um backend ou fullstack ....
 
