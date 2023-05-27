@@ -22,7 +22,7 @@ Instale  o projeto com
 Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
 
 
-`CONNECTIONSTRING=` crie uma database no mongo Atlas e refencie aqui a  url de conexão
+`CONNECTIONSTRING=` crie uma database no mongo Atlas e referencie aqui a  url de conexão
 
 
 ## Screenshots
